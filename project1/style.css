@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    display: flex;
+  
+     height: 39px; 
+    border-radius: 33px;
+    background-color: #12202f;
+    /* margin-top: 50px;  */
+    margin-bottom: 20px;
+}
+.box{
+    height: 100vh;
+    background-color: #ebe3cd;
+    margin: 0 auto;
+    padding-top: 40px; 
+    /* margin-left: 20px;
+     */
+     padding: 40px;
+}
+.logo{
+     margin-top: 10px; 
+    /* margin-left: 50px;  */
+    color: white;
+    margin-left: 30px;
+    /* font-size: 81px; */
+    /* color: #12202f; */
+    font-weight: 900;
+    font-family: "Playfair Display";
+       
+}
+.list a{
+    text-decoration: none;
+    color: white;
+    font-family: "Montserrat";
+   /* padding: 150px; */
+   margin-left: 250px;
+   mar
+
+}
